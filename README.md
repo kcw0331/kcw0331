@@ -1,4 +1,5 @@
-*👋 Hi, My name is Changwoo Kim.*
+***👋 Hi, My name is Changwoo Kim.***
+
  - 👀 I’m interested in ...Multivariate Data Analysis, Deep learning, AI
  - 🌱 I’m currently learning ...Multivariate Atatistics.
  - 📫 How to reach me ...kcw0331@cau.ac.kr
