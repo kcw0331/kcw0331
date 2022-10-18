@@ -5,8 +5,11 @@
  - 📫 How to reach me ...kcw0331@cau.ac.kr
  
  ## Skills
-  - Programming
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">  
+  ### Programming
+<img src="https://img.shields.io/badge/-python-green"> <img src="https://img.shields.io/badge/-R-blue"> <img src="https://img.shields.io/badge/-C-orange"> <img src="https://img.shields.io/badge/-C++-yellow"> <img src="https://img.shields.io/badge/-JAVA-success">
+
+  ###  
+ <img src="https://img.shields.io/badge/-Mongo DB-yellowgreen">  <img src="https://img.shields.io/badge/-ELKStack-important">
 
 <!---
 kcw0331/kcw0331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
