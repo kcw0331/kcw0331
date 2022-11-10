@@ -5,11 +5,11 @@
  - :email: How to reach me -> kcw0331@cau.ac.kr
  - :school: I'm currently studying MS AI School.
  
-## Skills
-### Programming
+# Skills
+## Programming
 - <img src="https://img.shields.io/badge/-python-green"> <img src="https://img.shields.io/badge/-R-blue"> <img src="https://img.shields.io/badge/-C-orange"> <img src="https://img.shields.io/badge/-C++-yellow"> <img src="https://img.shields.io/badge/-JAVA-success"> <img src="https://img.shields.io/badge/-JavaScript-red">
 
-###  Platform
+##  Platform
  - <img src="https://img.shields.io/badge/-MySQL-pink"> <img src="https://img.shields.io/badge/-Mongo DB-yellowgreen">  <img src="https://img.shields.io/badge/-ELKStack-important">
 
 <!---
