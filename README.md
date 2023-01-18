@@ -4,7 +4,7 @@
  - :green_book: I’m currently learning ...Multivariate Statistics, Deep Learning, Machine Learning.
  - :email: How to reach me -> kcw0331@cau.ac.kr
  - :school: I'm currently studying MS AI School.
- - :blog: kcw0331.github.io
+ - 📘 May Github Blog -> [kcw0331.github.io](kcw0331.github.io)
  
 # Skills
 
