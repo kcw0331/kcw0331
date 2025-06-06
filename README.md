@@ -3,7 +3,7 @@
  - 🏢 Asan Medical Center
  - :orange_book: I’m interested in ...Multivariate Data Analysis, Deep Learning, Machine Learning, AI.
  - :green_book: I’m currently learning ...Multivariate Statistics, Deep Learning, Machine Learning.
- - :email: How to reach me -> kcw0331@cau.ac.kr
+ - :email: How to reach me -> cwkim0331@gmail.com
  - :school: I studied MS AI School.
  - 📘 May Github Blog -> kcw0331.github.io
  
