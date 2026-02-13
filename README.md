@@ -1,8 +1,8 @@
 # :star2: Hi, My name is Changwoo Kim. :star2:
 
- - 🏢 Asan Medical Center
- - :orange_book: I’m interested in ...Multivariate Data Analysis, Deep Learning, Machine Learning, AI.
- - :green_book: I’m currently learning ...Multivariate Statistics, Deep Learning, Machine Learning.
+ - 🏢 I work in Asan Medical Center.
+ - :orange_book: I’m interested in ...Bio Signal, Multivariate Data Analysis, AI.
+ - :green_book: I’m currently learning ...Machine Learning, Deep Learning.
  - :email: How to reach me -> cwkim0331@gmail.com
  - :school: I studied MS AI School.
  - 📘 May Github Blog -> kcw0331.github.io
