@@ -1,4 +1,4 @@
-# :star2: Hi, My name is Changwoo Kim. :star2:
+# Hi, My name is Changwoo Kim.
 
  - 🏢 I work in Asan Medical Center.
  - :orange_book: I’m interested in ...Bio Signal, Multivariate Data Analysis, AI.
