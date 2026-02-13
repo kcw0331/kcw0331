@@ -1,13 +1,13 @@
 # Hi, I'm Changwoo Kim 👋  
 **Clinical Data Scientist | Surgical EMR Research Dataset (300K cases) | Aortic Surgery Hemodynamics Analysis**
 
-🏥 Asan Medical Center  
-📧 cwkim0331@gmail.com  
-📝 Blog: kcw0331.github.io  
+Asan Medical Center  
+Contact: cwkim0331@gmail.com  
+<!-- Blog: kcw0331.github.io -->
 
 ---
 
-## 👨‍⚕️ About Me
+## About Me
 I work on transforming hospital EMR data into **research-ready surgical datasets**.
 
 Currently, I am building a structured research database based on  
@@ -21,19 +21,13 @@ I am also conducting an ongoing study on the association between
 
 ---
 
-## 🔬 Ongoing Research
-- Analysis of intraoperative hemodynamic changes in aortic surgery
-- Evaluation of their association with 30-day mortality (ongoing)
+## Technical Stack
 
----
-
-## 🛠 Technical Stack
-
-### 📊 Languages
+### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
 
-### 🗄 Database / Platform
+### Database / Platform
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/> 
@@ -42,17 +36,21 @@ I am also conducting an ongoing study on the association between
 
 ---
 
-## 🚀 Current Work
-### 🗂 Surgical EMR → Research Dataset (6 Years, ~300K Cases)
-- Transforming surgical patient EMR data into a structured research-ready format  
-- Organizing dataset structure inspired by perioperative research datasets  
+## Current Work
+### Surgical EMR → Research Dataset (6 Years, ~300K Cases)
+- Transforming surgical EMR data into a structured, research-ready format  
+- Organizing dataset structure inspired by perioperative research datasets (e.g., INSPIRE, MOVER)
+
+### Aortic Surgery Hemodynamics Study (Ongoing)
+- Analyzing intraoperative hemodynamic changes during aortic surgery  
+- Assessing association with 30-day postoperative mortality
 
 ---
 
-## 🎯 Interests
+## Interests
 - Clinical research data modeling and standardization (CDM)  
 - Pharmacology  
 - Bio-signal and perioperative data analysis  
 
 ---
-_Transforming complex clinical data into structured research assets._
+Transforming complex clinical data into structured research assets.
